@@ -50,19 +50,14 @@ HispanoTech realiza un seguimiento constante del mercado tecnológico, identific
 HispanoTech está compuesta por un equipo multidisciplinar, capacitado y especializado en diversas áreas tecnológicas y estratégicas:
 
 - **Javier Rupérez Miranda:**  
-Especialista en inteligencia artificial y diseño interactivo. Responsable del desarrollo estratégico y tecnológico de los sistemas inteligentes implementados.
 
 - **Pablo Rebollo de Miguel:**  
-Ingeniero en robótica y sistemas interactivos, encargado de la integración operativa del producto y su implementación práctica.
 
 - **Rubén García Quiralte:**  
-Desarrollador sénior con experiencia en backend y soluciones de software. Responsable del funcionamiento técnico y estabilidad de los sistemas informáticos.
 
 - **Sento Marcos Ibarra:**  
-Desarrollador frontend especializado en interfaces interactivas y experiencia de usuario (UX/UI). Garantiza la usabilidad y accesibilidad del producto.
 
 - **Rogers Ernesto Sobrado Meneses:**  
-Experto en diseño gráfico y comunicación visual. Responsable de la identidad corporativa, diseño visual y branding estratégico de HispanoTech.
 
 ---
 
